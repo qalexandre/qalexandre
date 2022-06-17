@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/qalexandre/qalexandre/main/resources/banner.png" alt="Hello world">
 
 
-## Oi, sou o Alexandre Gonçalves, sou Programador Júnior!
+## Oi, sou o Alexandre Gonçalves, sou Programador!
 
 <br>
 <div>
@@ -16,8 +16,7 @@
   <img align="center" alt="Ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ale-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ale-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ale-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-
+<img align="center" alt="Ale-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
 </div> <br>
 <div> 
  

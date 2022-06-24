@@ -22,5 +22,5 @@
  
  
   <a href = "mailto:alexandre.goncalves33@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexandre-gon%C3%A7alves-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+  <a href="https://www.linkedin.com/in/alexandre-gon%C3%A7alves-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://qalexandre.github.io" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-%23130325?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> </div>
